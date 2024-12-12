@@ -1,5 +1,5 @@
-streamlit==1.25.0
+streamlit==1.26.0
+textblob==0.15.3
 requests==2.31.0
-textblob==0.17.1
-SpeechRecognition==3.8.1
-pillow==9.5.0  
+speechrecognition==3.8.1
+pillow==9.5.0
